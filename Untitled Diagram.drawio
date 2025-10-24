@@ -263,6 +263,18 @@
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-77" value="PAS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="840" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-78" value="TL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-79" value="TL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="690" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-80" value="PAS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-81" value="PAS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="830" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
