@@ -93,6 +93,12 @@
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-25" value="False" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-26" value="Finalize training needs, send agenda and logistics information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-27" value="Training OPP accepted, PO won, NNPR entry created in CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="190" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
