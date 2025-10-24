@@ -248,6 +248,9 @@
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-72" value="TL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="690" y="300" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-73" value="PAS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="830" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
