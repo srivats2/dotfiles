@@ -302,10 +302,10 @@
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-92" value="PAS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="1023" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pzfVC9VM8FYr7gVDMRTt-93" value="TL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-93" value="TL, GL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="1023" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pzfVC9VM8FYr7gVDMRTt-94" value="TL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-94" value="TL, GL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="1023" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-95" value="PAS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
