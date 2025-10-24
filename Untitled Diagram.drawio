@@ -10,32 +10,32 @@
         <mxCell id="0Sv_x03-M9tLxZnkzReq-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="80" as="sourcePoint" />
-            <mxPoint x="850" y="80" as="targetPoint" />
+            <mxPoint x="1150" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Sv_x03-M9tLxZnkzReq-3" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint y="60" as="sourcePoint" />
-            <mxPoint x="850" y="60" as="targetPoint" />
+            <mxPoint x="1150" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-6" value="Responsible" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="0Sv_x03-M9tLxZnkzReq-3">
           <mxGeometry x="0.5553" y="-9" relative="1" as="geometry">
-            <mxPoint x="-21" as="offset" />
+            <mxPoint x="-254" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-7" value="Accountable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="0Sv_x03-M9tLxZnkzReq-3">
           <mxGeometry x="0.6447" y="-11" relative="1" as="geometry">
-            <mxPoint x="21" as="offset" />
+            <mxPoint x="-226" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzfVC9VM8FYr7gVDMRTt-9" value="C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="0Sv_x03-M9tLxZnkzReq-3">
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-9" value="Consulted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="0Sv_x03-M9tLxZnkzReq-3">
           <mxGeometry x="0.7365" y="-11" relative="1" as="geometry">
-            <mxPoint x="82" y="9" as="offset" />
+            <mxPoint x="-208" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzfVC9VM8FYr7gVDMRTt-10" value="&lt;div&gt;I&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="0Sv_x03-M9tLxZnkzReq-3">
-          <mxGeometry x="0.8259" y="-9" relative="1" as="geometry">
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-12" value="Informed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="0Sv_x03-M9tLxZnkzReq-3">
+          <mxGeometry x="0.4974" y="-9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -53,14 +53,14 @@
         </mxCell>
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-3" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="800" y="3" as="sourcePoint" />
-            <mxPoint x="800" y="1097" as="targetPoint" />
+            <mxPoint x="760" as="sourcePoint" />
+            <mxPoint x="760" y="1094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-4" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="860" y="6" as="sourcePoint" />
-            <mxPoint x="860" y="1100" as="targetPoint" />
+            <mxPoint x="830" as="sourcePoint" />
+            <mxPoint x="830" y="1094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-5" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
