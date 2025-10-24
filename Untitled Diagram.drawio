@@ -78,8 +78,20 @@
         <mxCell id="pzfVC9VM8FYr7gVDMRTt-16" value="Questionnaire and training needs review and discussion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pzfVC9VM8FYr7gVDMRTt-17" value="If answers to questionnaire unclear" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="170" height="160" as="geometry" />
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-17" value="If answers to questionnaire clear" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-19" value="Discovery call to determine training needs with customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-24" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.495;entryY=1.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pzfVC9VM8FYr7gVDMRTt-17" target="pzfVC9VM8FYr7gVDMRTt-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="310" as="sourcePoint" />
+            <mxPoint x="320" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzfVC9VM8FYr7gVDMRTt-25" value="False" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
